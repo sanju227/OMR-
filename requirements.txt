@@ -4,5 +4,4 @@ matplotlib==3.6.0
 uuid==3.7
 opencv==4.6.0
 skimage==0.19.3
-streamlit==1.8. 0
-json
+
